@@ -1,0 +1,16 @@
+body {
+	background: red;
+}
+
+h1{
+	color: white;
+	font-size: 100px; 
+} 
+
+#Hello {
+	color: brown;
+} 
+
+.green{
+	color: green; 
+}
